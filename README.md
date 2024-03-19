@@ -1,2 +1,3 @@
-# terraform-projects
-infrastructure code for all my side projects
+# Terraform Projects
+
+This repo contains Infrastructure configurations for all my side projects.
